@@ -3,7 +3,7 @@ package EtcdStateStore
 import (
 	"context"
 	"fmt"
-	faasflow "github.com/s8sg/faas-flow"
+	faasflow "github.com/faasflow/sdk"
 	etcd "go.etcd.io/etcd/client"
 )
 
